@@ -9,6 +9,43 @@ Le projet à client réel de l'année scolaire 2016-2017 consistera à créer le
    		#### Nom
 		ASBL Mariam Faso
 
+		#### Date de création
+		4 juillet 2002
+
+		#### Numéro de TVA
+		BE 0479.548.006
+
+		#### Adresse
+		Avenue De La Gare, 15 
+		6600 Bastogne 
+		Belgique
+
+		#### Les personnes y travavaillant
+		| Fonction | Nom | Date d'arrivée |
+		|-----------|---------------|---------------|
+		| Administrateur | Ahodikpe Eboma , Daté | Depuis le 9 mai 2009 |
+		| Administrateur | Avalosse , Marcelle | Depuis le 11 mai 2005 |
+		| Administrateur | De Coster , Régine | Depuis le 11 mai 2005 |
+		| Administrateur | Gauthier , Marc | Depuis le 2 septembre 2011 |
+		| Administrateur | Joachim , Bernard | Depuis le 4 juillet 2002 |
+		| Administrateur | Mangoug , Najat | Depuis le 30 août 2012 |
+		| Administrateur | Mascret , Jacques | Depuis le 9 mai 2009 |
+		| Administrateur | Ngwe bayock , Daniel rené | Depuis le 9 mai 2009 |
+		| Administrateur | Pini-Pini Nsasay , Evariste | Depuis le 12 mars 2008 |
+		| Gérant | Joachim , Bernard | Depuis le 11 mai 2005 |
+		| Administrateur délégué | Pini-Pini Nsasay , Evariste | Depuis le 9 mai 2009 |
+		| Administrateur | Ahodikpe Eboma , Daté | Depuis le 9 mai 2009 |
+		| Administrateur | Avalosse , Marcelle | Depuis le 11 mai 2005 |
+		| Administrateur | De Coster , Régine | Depuis le 11 mai 2005 |
+		| Administrateur | Gauthier , Marc | Depuis le 2 septembre 2011 |
+		| Administrateur | Joachim , Bernard | Depuis le 4 juillet 2002 |
+		| Administrateur | Mangoug , Najat | Depuis le 30 août 2012 |
+		| Administrateur | Mascret , Jacques | Depuis le 9 mai 2009 |
+		| Administrateur | Ngwe bayock , Daniel rené | Depuis le 9 mai 2009 |
+		| Administrateur | Pini-Pini Nsasay , Evariste | Depuis le 12 mars 2008 |
+		| Gérant | Joachim , Bernard | Depuis le 11 mai 2005 |
+		| Administrateur délégué | Pini-Pini Nsasay , Evariste | Depuis le 9 mai 2009 |
+
 		#### Localisation
 		- Afrique du Nord et Burkina Faso
 		- Localité principale "Lengo"
